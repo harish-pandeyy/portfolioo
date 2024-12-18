@@ -40,7 +40,7 @@ export const projects = [
             'iconURL':next1
         }
     ],
-    'livelink':"https://"
+    'livelink':"https://rad-semolina-b1e7a6.netlify.app/"
 }
 ,
 {
