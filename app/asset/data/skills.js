@@ -1,4 +1,4 @@
-import { javascript,html,css,tailwind,react1,next1,git } from "../icon"
+import { javascript,html,css,tailwind,react1,next1,git,sql } from "../icon"
 export const skills = [{
     'title':"Development",
     'skills':[
@@ -41,6 +41,14 @@ export const skills = [{
     'skills':[
         {'name':'NextJs',
         'iconURL': next1,}
+    ]
+},
+
+{
+    'title':"Database",
+    'skills':[
+        {'name':'Sql',
+        'iconURL': sql,}
     ]
 },
 {

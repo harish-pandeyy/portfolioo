@@ -30,10 +30,10 @@ import css from './css-icon.svg'
 import react1 from './react-icon.svg'
 import next1 from './nextjs-icon.svg'
 import git from './github-icon.svg'
-
+import sql from './mysql-icon.svg'
 
 
 export {
     facebook, instagram, resume, copyright,  linkedin, github, message, c, cpp, django, expressjs, flask, java, javascript, python , mongodb, nodejs, react, restapi, hamburger, exploremore, githubsvg,livelink, cross,
-    html,css,tailwind,react1,next1,git
+    html,css,tailwind,react1,next1,git,sql
 }

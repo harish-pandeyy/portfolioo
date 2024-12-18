@@ -3,7 +3,7 @@ import Nav from './components/Nav'
 import Footer from './components/Footer'
 export const metadata = {
   title: 'Harish Pandey | Portfolio ',
-  description: 'Hello I am Ojus Soni a Developer',
+  description: 'Hello I am Harish Pandey a Developer',
 }
 
 export default function RootLayout({ children }) {

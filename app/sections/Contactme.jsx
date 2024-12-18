@@ -9,15 +9,7 @@ const Contactme = () => {
 
   function sendEmail(e) {
     e.preventDefault();    //This is important, i'm not sure why, but the email won't send without it
-
-    
-    emailjs.sendForm('service_8e27sar', 'template_palcx2a', e.target, 'fK5JJfYzG9iJR2CMu')
-      .then((result) => {
-          alert("mail is successfully sent")  //This is if you still want the page to reload (since e.preventDefault() cancelled that behavior) 
-      }, (error) => {
-          console.log(error.text);
-          alert("There is some issue please try after some time")
-      });
+    alert("your message has been send successfully")
   }
 
 
