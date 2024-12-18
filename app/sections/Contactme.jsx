@@ -50,7 +50,7 @@ const Contactme = () => {
             <Image src={linkedin} />
             </Link>
           </ul> */}
-          <h1 className='sm:text-2xl text-3xl '>hpandey97088@gmail.com</h1>
+          <h1 className='sm:text-2xl text-lg '>hpandey97088@gmail.com</h1>
         </div>
       </div>
       </div>
