@@ -9,7 +9,7 @@ const Contactme = () => {
 
   function sendEmail(e) {
     e.preventDefault();    //This is important, i'm not sure why, but the email won't send without it
-    alert("your message has been send successfully")
+    alert("There is some error")
   }
 
 

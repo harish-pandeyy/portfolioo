@@ -14,7 +14,7 @@ export const projects = [
             'iconURL':react
         }
     ],
-    'livelink':"https://"
+    'livelink':"https://superlative-sundae-77f3bd.netlify.app/"
 },
 
 { 
@@ -27,7 +27,7 @@ export const projects = [
             'iconURL':react
         }
     ],
-    'livelink':"https://"
+    'livelink':"https://glowing-churros-9956ff.netlify.app/"
 }
 ,
 { 
