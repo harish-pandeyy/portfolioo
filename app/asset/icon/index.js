@@ -35,5 +35,5 @@ import sql from './mysql-icon.svg'
 
 export {
     facebook, instagram, resume, copyright,  linkedin, github, message, c, cpp, django, expressjs, flask, java, javascript, python , mongodb, nodejs, react, restapi, hamburger, exploremore, githubsvg,livelink, cross,
-    html,css,tailwind,react1,next1,git,sql
+    html,css,tailwind,react1,next1,git,sql,
 }
