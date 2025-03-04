@@ -29,7 +29,7 @@ const Nav = () => {
                     <Link href="/Projects">Projects</Link>
                 </li> */}
                 <li className={pathname=='/Resume'? " text-blue-3" : "" + 'hover:text-blue-3'} >
-                    <Link href="/assets/pdf/resume.pdf">Resume</Link>
+                    <Link href="/assets/pdf/Harish_Pandey.pdf">Resume</Link>
                 </li>
                 <li className={pathname=='/#contact-me'? " text-blue-3" : "" + 'hover:text-blue-3'} >
                     <Link href="/#contact-me">Contact Me</Link>
